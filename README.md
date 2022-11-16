@@ -1,9 +1,8 @@
-# Тестовое задание 
+# Test task
 
-В ноутбуке celeba.ipynb содержится код обучения и инференса нейросети для сегментации волос.
-Для инференса модели без обучения необходимо запустить ноутбук без части с обучением.
+In notebook celeba.ipynb there is code of training and infering hear segmentation neural network.
 
-Установка:
+Setup:
 ```
 pip3 install reqirements.txt
 ```
